@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "server": "nodemon script"
   },
-  "author": "",
+  "author": "Shivam Mishra",
   "license": "ISC",
   "description": "",
   "dependencies": {
